@@ -86,7 +86,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     color: #fff;
 }
@@ -188,6 +187,16 @@ color: #434455;
     line-height: 1.50;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+.footer-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
 }
 .footer-logo-studio{
     color: #f4f4fd;
